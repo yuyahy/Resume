@@ -2,14 +2,15 @@
   "name": "resume-template",
   "version": "1.0.0",
   "description": "resume template",
+  "license": "UNLICENSED",
   "scripts": {
     "lint": "textlint docs/README.md",
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
   "devDependencies": {
-    "husky": "^5.0.0-alpha.6",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
+    "husky": "^5.0.0-alpha.6",
     "md-to-pdf": "^3.1.1",
     "textlint": "^11.6.3",
     "textlint-filter-rule-comments": "^1.2.2",
