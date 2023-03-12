@@ -73,4 +73,5 @@
 
 ## 業務外活動
 
-- 
+- Kaggle の Optiver Realized Volatility Prediction コンペで銀メダル（118/3852 位）を獲得（2022/1)
+- 統計検定 2 級を取得（2023/1)
